@@ -1,0 +1,20 @@
+# Python Quiz 1
+
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+weight_pounds = float(input("Enter your weight in pounds: "))
+
+
+
+# Display the information
+print("\nUser Information:")
+print("Name: ", name)
+print("Age: ", age)
+print(f"Weight: {weight_pounds} pounds ({weight_kg:.2f} kg)")
+
+
+# Python Quiz 1{Individual}
+# 1. Ask a user to input their name, age, and weight in
+# pounds.
+# 2. After they do convert the weight entered into pounds.
